@@ -1,0 +1,1653 @@
+本文整合自：
+
+（1）wyx100 ????? http://blog.csdn.net/wyx100/article/details/74635853
+
+（2）刘关张???????? http://blog.csdn.net/liu_guanzhang/article/details/20708115
+
+非常感谢二位！！！
+
+
+A
+
+AAN （Active Appearance Model）主动外观模型
+ASM（Active Shape Model）主动形状模型
+ANPR?(Automatic License Plate Recognition System (ANPR) 车牌自动识别系统,涉及了人工智能、机器视觉和神经网络等领域，实现一个车牌自动识别系统(ANPR)。它包括了一系列的数学算法原理，以保证数字车牌的检测与提取、字母分割、归一化和识别。 也称ALPR（Automatic number plate recognition、
+
+Automatic License Plate Recognition）自动牌照识别、AVI（Automatic Vehicle Identification）自动车辆识别、CPR（Car ?Plate Recognition）洗车车牌识别。
+
+ANN（Artificial neural network）人工（智能）神经网络
+
+approximations近似值
+
+arbitrary随意的
+
+affine仿射的
+
+arbitrary任意的
+
+amino acid氨基酸
+
+amenable经得起检验的
+
+axiom公理，原则
+
+abstract提取
+
+architecture架构，体系结构；建造业
+
+absolute绝对的
+
+arsenal军火库
+
+assignment分配
+
+algebra线性代数 ?
+
+asymptotically无症状的
+
+appropriate恰当的
+
+B
+
+bias偏差
+
+brevity简短，简洁；短暂 ?
+
+broader广泛 ?
+
+briefly简短的 ?
+
+batch批量
+
+C
+
+cnn,卷积神经网络（Convolutional Neural Network,CNN）是一种前馈神经网络，它的人工神经元可以响应一部分覆盖范围内的周围单元，对于大型图像处理有出色表现。[1] ?它包括卷积层(alternating convolutional layer)和池层(pooling layer)。
+
+convergence 收敛，集中到一点 ?convex凸的
+
+contours轮廓
+
+constraint约束
+
+constant常理
+
+commercial商务的
+
+complementarity补充 ?
+
+coordinate ascent同等级上升
+
+clipping剪下物；剪报；修剪
+
+component分量；部件 ?
+
+continuous连续的
+
+covariance协方差 ?
+
+canonical正规的，正则的
+
+concave非凸的
+
+corresponds相符合；相当；通信 ?
+
+corollary推论 ?
+
+concrete具体的事物，实在的东西
+
+cross validation交叉验证
+
+correlation相互关系
+
+cost function目标函数
+convention约定 ?
+
+cluster一簇
+
+centroids 质心，形心
+
+converge收敛
+
+computationally计算(机)的 ?
+
+calculus计算
+
+clustering聚类，hierarchical clustering 层次聚类
+
+D
+
+derive获得，取得 ?
+
+dual二元的 ?
+
+duality二元性；二象性；对偶性 ?
+
+derivation求导；得到；起源
+
+denote预示，表示，是…的标志；意味着，[逻]指称 ?
+
+divergence 散度；发散性
+
+dimension尺度，规格；维数
+
+dot小圆点 ?
+
+distortion变形 ?
+
+density概率密度函数
+
+discrete离散的 ?
+
+discriminative有识别能力的
+
+diagonal对角
+
+dispersion分散，散开 ?
+
+determinant决定因素 ?
+
+disjoint不相交的
+
+DL（deep learning）深度学习
+
+dilate，膨胀;扩大;详述
+
+E
+
+encounter遇到 ?
+
+ellipses椭圆
+
+equality等式
+
+extra额外的 ?
+
+empirical经验；观察 ?
+
+ennmerate例举，计数 ?
+
+exceed超过，越出
+
+expectation期望 ?
+
+efficient生效的 ?
+
+endow赋予 ?
+
+explicitly清楚的
+
+exponential family指数家族 ?
+
+equivalently等价的
+
+erode侵蚀，腐蚀
+
+F
+
+feasible可行的 ?
+
+forary初次尝试 ?
+
+inite有限的，限定的 ?
+
+forgo摒弃，放弃
+
+fliter过滤 ?
+
+frequentist最常发生的 ?
+
+forward search前向式搜索
+
+formalize使定形
+
+FLANN库全称是Fast Library for Approximate Nearest Neighbors，它是目前最完整的（近似）最近邻开源库。不但实现了一系列查找算法，还包含了一种自动选取最快算法的机制。http://www.cs.ubc.ca/research/flann/
+
+G
+
+generalized归纳的
+
+generalization概括，归纳；普遍化；判断（根据不足） ?
+
+guarantee保证；抵押品
+
+generate形成，产生
+
+geometric margins几何边界
+
+gap裂口
+
+generative生产的；有生产力的
+
+gradient descent梯度下降
+
+H
+
+heuristic启发式的；启发法；启发程序 ?hone怀恋；磨
+
+hyperplane超平面
+
+I
+
+initial最初的
+
+implement执行
+
+intuitive凭直觉获知的 ?
+
+incremental增加的
+
+intercept截距 ?
+
+intuitious直觉
+
+instantiation例子
+
+indicator指示物，指示器 ?
+
+interative重复的，迭代的 ?
+
+integral积分 ?
+
+identical相等的；完全相同的 ?
+
+indicate表示，指出
+
+invariance不变性，恒定性 ?
+
+impose把…强加于 ?
+
+intermediate中间的 ?
+
+interpretation解释，翻译
+
+J
+
+joint distribution联合概率
+
+K
+
+kNN邻近算法，或者说K最近邻(kNN，k-NearestNeighbor)分类算法是数据挖掘分类技术中最简单的方法之一。所谓K最近邻，就是k个最近的邻居的意思，说的是每个样本都可以用它最接近的k个邻居来代表。
+
+k-means，算法接受参数 k ；然后将事先输入的n个数据对象划分为 k个聚类以便使得所获得的聚类满足：同一聚类中的对象相似度较高；而不同聚类中的对象相似度较小。聚类相似度是利用各聚类中对象的均值所获得一个“中心对象”（引力中心）来进行计算的。
+
+L
+
+lieu替代 ?logarithmic对数的，用对数表示的 ?
+
+latent潜在的
+
+Leave-one-out cross validation留一法交叉验证
+
+LSTM（Long Short-Term Memory）是长短期记忆网络，是一种时间递归神经网络，适合于处理和预测时间序列中间隔和延迟相对较长的重要事件。已经在科技领域有了多种应用。基于 LSTM 的系统可以学习翻译语言、控制机器人、图像分析、文档摘要、语音识别图像识别、手写识别、控制聊天机器人、预测疾病、点击率和股票、合成音乐等等任务。
+
+M
+
+magnitude巨大
+
+mapping绘图，制图；映射
+
+matrix矩阵 ?
+
+mutual相互的，共同的 ?
+
+monotonically单调的 ?
+
+minor较小的，次要的 ?
+
+multinomial多项的
+
+multi-class classification二分类问题
+
+MNIST（全称Mixed National Institute of Standards and Technology database），是一系列带标记的数字图片。原始的NIST数据集的训练集是美国人口普查局的雇员的笔迹，而验证集是采集自美国中学生的笔迹。所以从机器学习的角度看，这是一种不太合理的样本采集。因此Lecun在进行卷积神经网络的研究时候从原始的NIST两个数据集中选择并重新混合形成新的训练集和验证集，也就是现在的MNIST。MNIST的图片一般都是28*28的图片，每个像素值进行了归一化，使得其在0-1范围内，不过也有部分数据集把它们又恢复到0-255，每个数字图片都有对应的标记。MNIST的训练集一共有60000个样本，而验证集有10000个样本。
+
+ML（machine learning）机器学习
+
+morphology形态学（尤指动植物形态学或词语形态学）
+
+N
+
+nasty讨厌的 ?
+
+notation?标志，注释 ?
+
+na?ve朴素的
+
+NN，神经网络（Neural Networks）的简写。神经网络算法是一种模范动物神经网络行为特征，进行分布式并行信息处理的算法数学模型。这种网络依靠系统的复杂程度，通过调整内部大量节点之间相互连接的关系，从而达到处理信息的目的。
+
+O
+
+OpenGL（全写Open Graphics Library）是指定义了一个跨编程语言、跨平台的编程接口规格的专业的图形程序接口。它用于三维图像（二维的亦可），是一个功能强大，调用方便的底层图形库。
+
+obtain得到 ?
+
+ocr（Optional Character Recognition）光学字符识别
+
+oscillate摆动 ?
+
+optimization problem?最优化问题 ?
+
+objective function?目标函数 ?
+
+optimal?最理想的 ?
+
+orthogonal (矢量，矩阵等)正交的
+
+orientation?方向
+
+ordinary?普通的
+
+occasionally?偶然的
+
+overfitting?过拟合
+
+opencv （Open Source Computer Vision Library）OpenCV是一个基于BSD许可（开源）发行的跨平台计算机视觉库，可以运行在Linux、Windows、Android和Mac OS操作系统上。它轻量级而且高效——由一系列 C 函数和少量 C++ 类构成，同时提供了Python、Ruby、MATLAB等语言的接口，实现了图像处理和计算机视觉方面的很多通用算法。
+
+P
+
+partial derivative?偏导数 ?
+
+property?性质
+
+proportional?成比例的
+
+primal?原始的，最初的
+
+permit?允许
+
+pseudocode?伪代码
+
+permissible可允许的
+
+polynomial多项式
+
+preliminary预备
+
+precision精度
+
+perturbation 不安，扰乱
+
+poist假定，设想
+
+positive semi-definite半正定的
+
+parentheses圆括号
+
+posterior probability后验概率
+
+plementarity补充
+
+pictorially图像的
+
+parameterize确定…的参数
+
+poisson distribution柏松分布
+
+pertinent相关的
+
+PCA,主成分分析 （ Principal Component Analysis ， PCA ）或者主元分析。是一种掌握事物主要矛盾的统计分析方法，它可以从多元事物中解析出主要影响因素，揭示事物的本质，简化复杂的问题。计算主成分的目的是将高维数据投影到较低维空间。
+
+POSIT（Pose from orthography and Scaling With Iterations）尺寸变换提取姿态
+
+Q
+
+quadratic二次的
+
+quantity量，数量；分量
+
+query疑问的
+
+R
+
+regularization使系统化；调整
+
+reoptimize重新优化
+
+restrict限制；限定；约束
+
+reminiscent回忆往事的；提醒的；使人联想…的（of）
+
+remark注意
+
+random variable随机变量
+
+respect考虑
+
+respectively各自的；分别的
+
+redundant过多的；冗余的
+
+RNN,多层反馈RNN（Recurrent neural Network、循环神经网络）神经网络是一种节点定向连接成环的人工神经网络。这种网络的内部状态可以展示动态时序行为。不同于前馈神经网络的是，RNN可以利用它内部的记忆来处理任意时序的输入序列，这让它可以更容易处理如不分段的手写识别、语音识别等。
+
+TRNN（Time recurrent neural network）时间递归神经网络
+
+S
+
+susceptible敏感的
+
+stochastic可能的；随机的
+
+symmetric对称的
+
+sophisticated复杂的
+
+spurious假的；伪造的
+
+subtract减去；减法器
+
+simultaneously同时发生地；同步地
+
+suffice满足
+
+scarce稀有的，难得的
+
+split分解，分离
+
+subset子集
+
+statistic统计量
+
+successive iteratious连续的迭代
+
+scale标度
+
+sort of有几分的
+
+squares平方
+
+supervised learning 监督学习
+
+SIFT（尺度不变特征变换，Scale-Invariant Feature Transform）是在计算机视觉领域中检测和描述图像中局部特征的算法，该算法于1999年被David Lowe提出，并于2004年进行了补充和完善。该算法应用很广，如目标识别，自动导航，图像拼接，三维建模，手势识别，视频跟踪等。不幸的是，该算法已经在美国申请了专利，专利拥有者为Lowe所在的加拿大不列颠哥伦比亚大学，因此我们不能随意使用它。
+由于SIFT算法在计算机视觉的特征检测和特征描述中表现十分优异，因此该算法一经提出，就引起了广泛的关注。国内外对其研究的人很多，相关的资料也很多。
+
+T
+
+trajectory轨迹
+
+temporarily暂时的
+
+terminology专用名词
+
+tolerance容忍；公差
+
+thumb翻阅
+
+threshold阈，临界
+
+theorem定理
+
+tangent正弦
+
+U
+
+unit-length vector单位向量
+
+unsupervised learning 无监督学习
+
+V
+
+valid有效的，正确的
+
+variance方差
+
+variable变量；变元
+
+vocabulary词汇
+
+valued经估价的；宝贵的
+
+W
+
+wrapper包装
+
+x
+
+y
+
+z
+
+
+
+图像处理（opencv）
+
+Algebraic operation 代数运算?一种图像处理运算，包括两幅图像对应像素的和、差、积、商。
+Aliasing 走样（混叠）?当图像象素间距和图像细节相比太大时产生的一种人工痕迹。
+Arc 弧 （l）图的一部分（2）表示一段相连曲线的像素集合。
+Binary image 二值图像?只有两级灰度的数字图像（通常为0和1，黑和白）。
+
+Blur 模糊?由于散焦、低通滤波、摄像机运动等引起的图像清晰度的下降。
+Border 边框?一幅图像的首、未行或列。 
+Boundary chain code 边界链码?定义一个物体边界的方向序列。
+Boundary pixel 边界像素?至少和一个背景象素相邻接的内部像素（比较：外部像素、内部像素）。
+Boundary tracking?边界跟踪?一种图像分割技术，通过沿弧从一个像素顺序探索到下一个像素的方法将弧检测出来。
+Brightness 亮度?和图像一个点相关的值，表示从该点的物体发射或反射的光的量。
+Change detection 变化检测?通过相减等操作将两幅匹准图像的像素加以比较从而检测出其中物体差别的技术。
+Class 类?见模或类。 
+Closed curve 封闭曲线?一条首尾接于一点的曲线。
+Cluster 聚类，集群?在空间（如在特征空间）中位置接近的点的集合。
+Cluster analysis 聚类分析?在空间中对聚类的检测、度量和描述。
+Concave 凹的?如果说某个物体是“凹的”是指至少存在两个物体内部的点，其连线不能完全包含在物体内部（反义词为凸的）。
+Connected 连通的。 
+Contour encoding 轮廓编码?对具有均匀灰度的区域，只将其边界进行编码的一种图像压缩技术。
+Contrast 对比度?物体平均亮度（或灰度）与其周围背景的差别程度。
+Contrast stretch 对比度扩展?一种线性的灰度变换。
+Convex 凸的?指连接物体内部任意两点的直线均落在物体内部。
+Convolution 卷积?一种将两个函数组合生成第三个函数的运算，卷积刻画了线性移不变系统的运算。
+Convolution kernel 卷积核?（1）用于数字图像卷积滤波的二维数字阵列；（2）与图像或信号卷积的函数。
+Curve 曲线?（1）空间的一条连续路径；（2）表示一路径的像素集合（见弧、封闭曲线）。
+Deblurring 去模糊?（1）一种降低图像模糊，锐化图像细节的运算；（2）消除或降低图像的模糊，通常是图像复原或重构的一个步骤。
+Decision rule 决策规则?在模式识别中，用以将图像中物体赋以一定量的规则或算法，这种赋值是以对物体特征度量为基础的。
+Digital image 数字图像?（l）表示景物图象的整数阵列；（2）一个二维或更高维的采样并量化的函数，它由相同维数的连续图像产生；（3）在矩形（或其他）网格上采样一连续函数，并在采样点上将值量化后的阵列。
+Digital image processing 数字图像处理?对图像的数字化处理；由计算机对图片信息进行操作。
+Digitization 数字化?将景物图像转化为数字形式的过程。
+Edge 边缘?（l）在图像中灰度出现突变的区域；（2）属于一段弧上的像素集，在其另一边的像素与其有明显的灰度差别。
+Edge detection 边缘检测?通过检查邻域，将边缘像素标识出的一种图像分割技术。
+Edge enhancement 边缘增强?通过将边缘两边像素的对比度扩大来锐化图像边缘的一种图像处理技术。
+Edge image 边缘图像?在边缘图像中每个像素要么标注为边缘，要么为非边缘。
+Edge linking 边缘连接?在边缘图像中将边缘象素连成边缘的一种图像处理技术。
+Edge operator 边缘算子?将图像中边线像素标记出来的一种邻域算子。
+Edge pixel 边缘像素?处于边缘上的像素。 
+Enhance 增强?增加对比度或主观可视程度。 
+Exterior pixel 外像素?在二值图像中，处于物体之外的像素（相对于内像素）。
+False negative 负误识?在两类模式识别中，将属于物体标注为不属于物体的误分类。
+False positive 正误识?在两类模式识别中，将不属于物体标注为属于物体的误分类。
+Feature 特征?物体的一种特性，它可以度量。有助于物体的分类，如：大小、纹理、形状。
+Feature extraction 特征检测?模式识别过程中的一个步骤，在该步骤中计算物体的有关度量。
+Feature Selection 特征选择?在模式识别系统开发过程中的一个步骤。旨在研究质量或观测能否用于将物体赋以一定类别。
+Feature space 特征空间?参见度量空间。 
+Fourier transform 傅里叶变换?采用复指数作为核函数的一种线性变换。
+Geometric correction 几何校正?采用几何变换消除几何畸变的一种图像复原技术。
+Gray level 灰度级?（1）和数字图像的像素相关连的值，它表示由该像素的原始景物点的亮度；（2）在某像素位置对图像的局部性质的数字化度量。
+Gray scale 灰度?在数字图像中所有可能灰度级的集合。
+Gray-scale transformation 灰度变换?在点运算中的一种函数，它建立了输入灰度和对应输出灰度的关系。
+Hankel transform?? Hankel变换。
+Harmonic signal 谐波信号?由余弦实部和相同频率的正弦虚部组合的复数信号。
+Hermite function Hermite函数?具有偶实部和奇虚部的复值函数。
+High-pass filtering 高通滤波?图像增强（通常是卷积）运算，相对于低频部分它对高频部分进行了提升。
+Hole 洞?在二值图像中，由物体内点完全包围的连通的背景点。
+Image 图像?对物理景物或其他图像的统一表示称为图像。
+Image Compression 图像压缩?消除图像冗余或对图像近似的任一种过程，其目的是对图像以更紧凑的形式表示。
+Image cording 图像编码?将图像变换成另一个可恢复的形式（如压缩）。
+
+Image enhancement 图像增强?旨在提高图像视觉外观的任一处理。
+Image matching 图像匹配?为决定两副图像相似程度对它们进行量化比较的过程。
+Image-processing operation 图像处理运算?将输入图像变换为输出图像的一系列步骤。
+Image reconstruction 图像重构?从非图像形式构造或恢复图像的过程。
+Image registration 图像配准?通过将景物中的一幅图像与相同景物的另一幅图像进行几何运算，以使其中物体对准的过程。
+Image restoration 图像恢复?通过逆图像退化的过程将图像恢复为原始状态的过程。
+Image segmentation 图像分割?（1）在图像中检测并勾画出感兴趣物体的处理；（2）将图像分为不相连的区域。通常这些区域对应于物体以及物体所处的背景。
+Interior pixel 内象素?在一幅二值图像中，处于物体内部的像素（相对于边界像素、外像素）。
+Interpolation 插值?确定采样点之间采样函数的过程称为插值。
+Kernel 核?见卷积核。 
+Line detection 线检测?通过检查邻域将直线像素标识出来的一种图像分割技术。
+Line pixel 直线像素?处于一条近似于直线的弧上的像素。
+Local operation 局部运算?基于输入象素的一个邻域的像素灰度决定该像素输出灰度的图像处理运算，同邻域运算（对比：点运算）。
+Local property 局部特征?在图像中随位置变化的感兴趣的特性（如：光学图像的亮度或颜色；非光学图像高度、温度、密度等）。
+Lossness image compression 无损图像压缩?可以允许完全重构原图像的任何图像压缩技术。
+Lossy image compression 有损图像压缩?由于包含近似，不能精确重构原图像的任何图像压缩技术。
+Matched filtering 匹配滤波?采用匹配滤波器检测图像中特定物体的存在及其位量。
+Measurement space 度量空间?在模式识别中，包含所有可能度量向量的n维向量空间。
+Misclassification 误分类?在模式识别中，将物体误为别类的分类。
+Multi-spectral image 多光谱图像?同一景物的一组图像，每一个是由电磁谱的不同波段辐射产生的。
+Neighborhood 邻域?在给定像素附近的一像素集合。
+Neighborhood operation 邻域运算?见局部运算（对比：点运算）。
+Noise 噪声?一幅图像中阻碍感兴趣数据的识别和解释的不相关部分。
+Noise reduction 噪声抑制?降低一幅图像中噪声的任何处理。
+Object 目标，物体?在模式识别中，处于一二值图像中的相连象素的集合，通常对应于该图像所表示景物中的一个物体。
+Optical image 光学图像?通过镜头等光学器件将景物中的光投射到一表面上的结果。
+Pattern 模式?一个类的成员所表现出的共有的有意义的规则性，可以度量并可用于对感兴趣的物体进行分类。
+Pattern class 模式类?可预先赋予一个物体的相互不包容的任一个类。
+Pattern classification 模式分类?将物体赋予模式类的过程。
+Pattern recognition 模式识别?自动或半自动地检测、度量、分类图像中的物体。
+Pel 像素 图像元素（picture element）的缩写。
+Perimeter 周长?围绕一物体的边界的周边距离。 
+Picture element 图像元素，像素?数字图像的最小单位。一幅数字图像的基本组成单元。
+Pixel 像素?图像元素（picture element）的缩写。
+Point operation 点运算?只根据对应像素的输入灰度值决定该像素输出灰度值的图像处理运算（对比：邻域运算）。
+Quantitative image analysis 定量图像分析?从一幅数字图像中抽取定量数据的过程。
+Quantization 量化?在每个象素处，将图像的局部特性赋予一个灰度集合中的元素的过程。
+Region 区域?一幅图像中的相连子集。 
+Region growing 区域增长?通过反复对具有相似灰度或纹理的相邻子区域求并集生成区域的一种图像分割技术。
+Registered 配准的?（l）调准的状态；（2）两幅或多幅图像已几何调准，其中的物体吻合。
+Registered image 已配准图像?同一景物的两幅（或以上）图像已相互调准好位置，从而使其中的物体具有相同的图像位置。
+Resolution 分辨率?（l）在光学中指可分辨的点物体之间最小的分离距离；（2）在图像处理中，指图像中相邻的点物体能够被分辨出的程度。
+Run 行程?在图像编码中，具有相同灰度的相连像素序列。
+Run length 行程长度，行程?? 在行程中像素的个数。 
+Run-length encoding 行程编码?图像行以行程列表示的图像压缩技术，每个行程由一个给定的行程长度和灰度值定义。
+Sampling 采样?（根据采样网格）将图像分为象素并测量其上局部特性（如亮度、颜色）的过程。
+Scene 场景?客观物体的一种特色布局。 
+Sharp 清晰?关于图像细节的易分辨性。 
+Sharpening 锐化?用以增强图像细节的一种图像处理技术。
+Sigmoid function?? Sigmoid函数，S函数?? 形如“S”的一种函数，是一种灰度变化函数，它也可用于神经元网络中处理单元（PE）中的函数。
+Sinusoidal 正弦型的?具有正弦函数形状的函数类型。
+Smoothing 平滑?降低图像细节幅度的一种图像处理技术。通常用于降噪。
+Statistical Pattern recognition 统计模式识别?采用概率和统计的方法将物体赋予模式类的一种模式识别。
+Structural pattern recognition 结构模式识别?为描述和分类物体，将物体表示为基元及其相互关系的一种模式识别方法。
+Syntactic Pattern recognition 句法模式识别?采用自然或人工语言模式定义基元及相互关系的一种结构模式识别方法。
+System 系统?对输入作出响应，并生成输出。 
+Texture 纹理?在图像处理中，表示图像中灰度幅度及其局部变化的空间组织的一种属性。
+Thinning 细化?将物体削减为（单像素宽度）的细曲线的一种二值图像处理技术。
+Threshold 阈值?用以产生二值图像的一个特定的灰度纹。
+Thresholding 二值化?由灰度图产生二值图像的过程，如果输入像素的灰度值大于给定的阈值则输出象素赋为1，否则赋为0。
+Transfer function 传递函数?在线性移不变系统中，表达每一频率下的正弦型输入信号将幅值比例传递到输出信号上的频率函数。
+
+
+
+
+
+FFT 滤波器 FFT filters
+
+VGA 调色板和许多其他参数 VGA palette and many others
+
+按名称排序 sort by name
+
+包括角度和刻度 including angle and scale
+
+保持目标 keep targets
+
+保存 save
+
+保存和装载 save and load
+
+饱和度 saturation
+
+饱和加法和减法 add and subtract with saturate
+
+背景淡化 background flatten
+
+背景发现 find background
+
+边缘和条纹测量 Edge and Stripe/Measurement
+
+边缘和条纹的提取 find edge and stripe
+
+编辑 Edit
+
+编辑 edit
+
+编辑或删除相关区域 edit or delete relative region
+
+编码 Code
+
+编码条 Coda Bar
+
+变换 forward or reverse fast Fourier transformation
+
+变量和自定义的行为 variables and custom actions
+
+变量检测 examine variables
+
+变形 warping
+
+变形系数 warping coefficients
+
+标题 tile
+
+标注和影响区域 label and zone of influence
+
+标准 normal
+
+标准偏差 standard deviation
+
+表面弯曲 convex
+
+并入图像 merge to image
+
+采集栏 digitizer bar
+
+采集类型 grab type
+
+菜单形式 menu item
+
+参数 Preferences
+
+参数轴和角度 reference axis and angle
+
+测量 measurement
+
+测量方法提取 extract measurements from
+
+测量结果显示和统计 display measurement results and statistics
+
+测量转换 transfer to measurement
+
+插入 Insert
+
+插入 insert
+
+插入条件检查 Insert condition checks
+
+查找最大值 find extreme maximum
+
+长度 length
+
+超过50 个不同特征的计算 calculate over 50 differentfeatures area
+
+撤销 undo
+
+撤销次数 number of undo levels
+
+乘 multiply
+尺寸 size
+
+抽取或融合分量红 red/
+
+处理 Processing
+
+处理/采集图像到一个新的窗口processed/grabbed image into new window
+
+窗口 window
+
+窗口监视 watch window
+
+窗位 window leveling
+
+创建 create
+
+垂直边沿 vertical edge
+
+从 Windows
+
+从表格新建 new from grid
+
+从工具条按钮 from toolbar button
+
+从用户窗口融合 merge from user form
+
+粗糙 roughness
+
+错误纠正 error correction
+
+错误匹配 fit error
+
+打开 open
+
+打开近期的文件或脚本 open recent file or script
+
+打印 print
+
+打印设置 print setup
+
+打印预览 print preview
+
+大小和日期 size and date
+
+带通 band pass
+
+带有调色板的8- bit
+
+带有动态预览的直方图和x, y 线曲线椭圆轮廓 histogram and x, y line curveellipse profiles with dynamic preview
+
+带阻 band reject
+
+代码类型 code type
+
+单步 single step
+
+单一 simple
+
+单帧采集 snap shot
+
+导入 VB
+
+等等 etc.
+
+低通 low pass
+
+第一帧 first
+
+点 point
+
+调色板预览 palette viewer
+
+调试方式 debug mode
+
+调用外部的 DLL
+
+调整大小 resize
+
+调整轮廓滤波器的平滑度和轮廓的最小域值 adjust smoothness of contour filter and minimum threshold forcontours
+
+定点除 fixed point divide
+
+定位精度 positional accuracy
+
+定义一个包含有不相关的不一致的或无特征区域的模板 define model including mask for irrelevant inconsistent orfeatureless areas
+
+定制制定-配置菜单 Customize - configure menus
+
+动态预览 with dynamic preview
+
+读出或产生一个条形或矩阵码 read or generate bar and matrix codes
+
+读取和查验特征字符串 erify character strings
+
+断点 break points
+
+对比度 contrast
+
+对比度拉伸 contrast stretch
+
+对称 symmetry
+
+对模板应用“不关心的”像素标注 apply don&#39;t care pixel mask to model
+
+多边形 polygon
+
+二进制 binary
+
+二进制分离 separate binary
+
+二值和灰度 binary and grayscale
+
+翻转 reverse
+
+返回 return
+
+放大或缩小7 个级别 zoom in or out 7 levels
+
+分类结果 sort results
+
+分水岭 Watershed
+
+分析 Analysis
+
+分组视图 view components
+
+浮点 float
+
+腐蚀 erode
+
+复合视图 view composite
+
+复合输入 combined with input
+
+复制 duplicate
+
+复制 duplicateselect all
+
+傅立叶变换 Fourier transform
+
+改变热点值 change hotspot values
+
+感兴趣区域 ROI
+
+高级几何学 Advanced geometry
+
+高通 high pass
+
+格式栏 formatbar
+
+更改默认的搜索参数 modify default search parameters
+
+工具 Utilities
+
+工具栏 toolbar
+
+工具属性 tool properties
+
+工具条 toolbar
+
+工作区 workspace bar
+
+共享轮廓 shared contours
+
+构件 build
+
+构造表格 construct grid
+
+关闭 close
+
+和/或 and/or
+
+和逆 FFT
+
+画图工具 drawing tools
+
+缓存 buffer
+
+换算 convert
+
+灰度 grayscale
+
+恢复目标 restore targets
+
+回放 playback
+
+绘图连结 connect map
+
+获得/装载标注 make/load mask
+
+获取选定粒子 draw selected blobs
+
+或从一个相关区域创建一个 ROI or create an ROI from a relative region
+
+基线 score
+
+基于校准映射的畸变校正 distortion correction based on calibration mapping
+
+极性 polarity
+
+极坐标转换 polar coordinatetransformation
+
+几何学 Geometry
+
+记录 record
+
+加粗 thick
+
+加法 add
+
+间隔 spacing
+
+间距 distance
+
+兼容 compatible
+
+简洁 compactness
+
+剪切 cut
+
+减法 subtract
+
+减小缩进 outdent
+
+交互式的定义字体参数包括搜索限制 ine font parameters including search constraints
+
+脚本栏 script bar
+
+角度 angle
+
+角度和缩放范围 angle and scale range
+
+接收和确定域值 acceptance and certainty thresholds
+
+结果栏 result bar
+
+解开目标 unlock targets
+
+精确度和时间间隔 accuracy and timeout interval
+
+矩形 rectangle
+
+矩形 rectangular
+
+绝对差分 absolute difference
+
+绝对值 absolute value
+
+均匀 uniform
+
+均值 average
+
+拷贝 copy
+
+拷贝序列 copy sequence
+
+可接收的域值 acceptance threshold
+
+克隆 clone
+
+控制 control
+
+控制 controls
+
+快捷健 shortcut key
+
+宽度 breadth
+
+宽度 width
+
+拉普拉斯 Laplacians
+
+拉伸 elongation
+
+蓝 blue
+
+类型 type
+粒子 Blob
+
+粒子 blob
+
+粒子标注 label blobs
+
+粒子分离 segment blobs
+
+粒子内的孔数目 number of holes in a blob
+
+亮度 brightness
+
+亮度 luminance
+
+另存为 save as
+
+滤波器 filters
+
+绿 green
+
+轮廓 profile overlay
+
+轮廓极性 contour polarity
+
+逻辑运算 logical operations
+
+面积 area
+
+模板编辑 edit model
+
+模板覆盖 model coverage
+
+模板和目标覆盖 model and target coverage
+
+模板索引 model index
+
+模板探测器 Model Finder
+
+模板位置和角度 model position and angle
+
+模板中心 model center
+
+模糊 mask
+
+模块 import VB module
+
+模块 modules
+
+模式匹配 Pattern matching
+
+默认案例 default cases
+
+目标 Targets
+
+目标分离 separate objects
+
+目标评价 target score
+
+欧拉数 Euler number
+
+盆 basins
+
+膨胀 dilate
+
+匹配率 match scores
+
+匹配数目 number of matches
+
+平方和 sum of the squares
+
+平滑 smooth
+
+平均 average
+
+平均 averaged
+
+平均值 mean
+
+平移 translation
+
+前景色 foreground color
+
+清除缓冲区为一个恒量 clear buffer to a constant
+
+清除特定部分 delete special
+
+区域增长 region-growing ROI
+
+取反 negate
+
+全部删除 delete all
+
+缺省填充和相连粒子分离 fill holes and separate touching blobs
+
+任意指定位置的中心矩和二阶矩 central and ordinary moments of any order location: X, Y
+
+锐化 sharpen
+
+三维视图 view 3D
+
+色度 hue
+
+删除 delete
+
+删除帧 delete frame
+
+设置 settings
+
+设置相机类型 enable digitizer camera type
+
+设置要点 set main
+
+示例 demos
+
+事件发现数量 number of occurrences
+
+事件数目 number of occurrences
+
+视图 View
+
+收藏 collectionDICOM
+
+手动 manually
+
+手绘曲线 freehand
+
+输出选项 output options
+
+输出选择结果 export selected results
+
+输入通道 input channel
+
+属性页 properties page
+
+数据矩阵 DataMatrix
+
+数字化设置 Digitizer settings
+
+双缓存 double buffer
+
+双域值 two-level
+
+水平边沿 horizontal edge
+
+搜索 find
+
+搜索和其他应用 Windows Finder and other applications
+
+搜索角度 search angle
+
+搜索结果 search results
+
+搜索区域 search area
+
+搜索区域 search region
+
+搜索速度 search speed
+
+速度 speed
+
+算法 arithmetic
+
+缩放 scaling
+
+缩放和偏移 scale and offset
+
+锁定目标 lock destination
+
+锁定实时图像处理效果预览 lock live preview of processing effects on images
+
+锁定预览 Lock preview
+
+锁定源 lock source
+
+特定角度 at specific angle
+
+特定匹配操作 hit or miss
+
+梯度 rank
+
+替换 replace
+
+添加噪声 add noise
+
+条带直径 ferret diameter
+停止 stop
+
+停止采集 halt grab
+
+同步 synchronize
+
+同步通道 sync channel
+
+统计 Statistics
+
+图像 Image
+
+图像大小 image size
+
+图像拷贝 copy image
+
+图像属性 image properties
+
+图形 graph
+
+退出 exit
+
+椭圆 ellipse
+
+椭圆 ellipses
+
+外形 shape
+
+伪彩 pseudo-color
+
+位置 position
+
+文本查看 view as text
+
+文件 File
+
+文件 MIL MFO font file
+
+文件 load and save as MIL MMF files
+
+文件 load and save models as MIL MMO files OCR
+
+文件中的函数 make calls to functions in external DLL files
+
+文件转换器 file converterActiveMIL Builder ActiveMIL Builder
+
+无符号抽取部分 Extract band -
+
+细化 thin
+
+下一帧 next
+
+显示表现字体的灰度级 ayscale representations of fonts
+
+显示代码 show code
+
+线 line
+
+线 lines
+
+相对起点 relative origin
+
+像素总数 sum of all pixels
+
+向前或向后移动 Move to front or back
+
+向上或向下 up or down
+
+校准 Calibration
+
+校准 calibrate
+
+新的/感兴趣区域粘贴 paste into New/ROI
+
+新建 new
+
+信息/ 图形层 DICOM information/overlay
+
+形态 morphology
+
+行为 actions
+
+修改 modify
+
+修改路径 modify paths
+
+修改搜索参数 modify default search parameters
+
+序列采集 sequence
+
+旋转 rotation
+旋转模板 rotate model
+
+选择 select
+
+选择 selector
+
+循环 loops
+
+移动 move
+
+移动 shift
+
+应用过滤器和分类器 apply filters and classifiers
+
+影响区域 zone of influence
+
+映射 mapping
+
+用户定义 user defined
+
+用基于变化上的控制实时预览分水岭转化结果阻止过分切割 live preview of resulting watershed transformations with controlover variation to prevent over segmentation
+
+用某个值填充 fill with value
+
+优化和编辑调色板 palette optimization/editor
+
+有条件的 conditional
+
+域值 threshold
+
+域值 thresholding
+
+预处理模板优化搜索速度循环全部扫描 preprocess model to optimize search speed circular over-scan
+
+预览 previous
+
+元件数目和开始（自动或手动） number of cells and threshold auto or manual
+
+元件最小／最大尺寸 cell size min/max
+
+源 source
+
+允许的匹配错误率和加权 fit error and weight
+
+运行 run
+
+在目标中匹配数目 number of modelmatches in target
+
+暂停 pause
+
+增大缩进 indent
+
+整数除 integer divide
+
+正 FFT
+
+正常连续 continuous normal
+
+支持象征学 supported symbologies: BC 412
+
+直方图均衡 histogram equalization
+
+执行 execute
+
+执行外部程序和自动完成 VBA only execute external programs and perform Automation VBA only
+
+指定 specify
+
+指数 exponential Rayleigh
+
+中值 median
+
+重复 repeat
+
+重建 reconstruct
+
+重建和修改字体 restore and modify fonts
+
+重新操作 redo
+
+重心 center of gravity
+
+周长 perimeter
+
+注释 annotations
+
+转换 Convert
+
+转换 convert
+
+装载 load
+装载和保存模板为 MIL MMO
+
+装载和另存为 MIL MFO
+
+装载和另存为 MIL MMF
+
+状态栏 status bar
+
+资源管理器拖放图像 drag-and-drop images from Windows ExplorerWindows
+
+自动或手动 automatic or manual
+
+自动或手动模板创建 automatic or manual model creation
+
+字符产大小 string size
+
+字符串 string
+
+字体 font
+
+最大 maximum
+
+最大化 maximum
+
+最大数 maxima
+
+最后一帧 last frame
+
+最小 minimum
+
+最小化 minimum
+
+最小间隔标准 minimum separation criteria
+
+最小数 minima
+
+坐标盒的范围 bounding box coordinates
+
+?
+
+Algebraic operation 代数运算；一种图像处理运算，包括两幅图像对应像素的和、差、积、商。
+
+Aliasing 走样（混叠）；当图像像素间距和图像细节相比太大时产生的一种人工痕迹。
+
+Arc 弧；图的一部分；表示一曲线一段的相连的像素集合。
+
+Binary image 二值图像；只有两级灰度的数字图像（通常为0和1，黑和白）
+
+Blur 模糊；由于散焦、低通滤波、摄像机运动等引起的图像清晰度的下降。
+
+Border 边框；一副图像的首、末行或列。
+
+Boundary chain code 边界链码；定义一个物体边界的方向序列。
+
+Boundary pixel 边界像素；至少和一个背景像素相邻接的内部像素（比较：外部像素、内部像素）
+
+Boundary tracking 边界跟踪；一种图像分割技术，通过沿弧从一个像素顺序探索到下一个像素将弧检测出。
+
+Brightness 亮度；和图像一个点相关的值，表示从该点的物体发射或放射的光的量。
+
+Change detection 变化检测；通过相减等操作将两幅匹准图像的像素加以比较从而检测出其中物体差别的技术。
+
+Class 类；见模或类
+
+Closed curve 封闭曲线；一条首尾点处于同一位置的曲线。
+
+Cluster 聚类、集群；在空间（如在特征空间）中位置接近的点的集合。
+
+Cluster analysis 聚类分析；在空间中对聚类的检测，度量和描述。
+
+Concave 凹的；物体是凹的是指至少存在两个物体内部的点，其连线不能完全包含在物体内部（反义词为凸）
+
+Connected???? 连通的
+
+Contour encoding 轮廓编码；对具有均匀灰度的区域，只将其边界进行编码的一种图像压缩技术。
+
+Contrast 对比度；物体平均亮度（或灰度）与其周围背景的差别程度
+
+Contrast stretch 对比度扩展；一种线性的灰度变换
+
+Convex 凸的；物体是凸的是指连接物体内部任意两点的直线均落在物体内部。
+
+Convolution? 卷积；一种将两个函数组合成第三个函数的运算，卷积刻画了线性移不变系统的运算。
+
+Convolution kernel 卷积核；1，用于数字图像卷积滤波的二维数字阵列，2，与图像或信号卷积的函数。
+
+Curve 曲线； 1，空间的一条连续路径 ，2 表示一路径的像素集合（见弧、封闭曲线）。
+
+Deblurring 去模糊；1一种降低图像模糊，锐化图像细节的运算。2 消除或降低图像的模糊，通常是图像复原或重构的一个步骤。
+
+Decision rule 决策规则；在模式识别中，用以将图像中物体赋以一定量的规则或算法，这种赋值是以对物体特征度量为基础的。
+
+Digital image 数字图像 ； 1 表示景物图像的整数阵列，2 一个二维或更高维的采样并量化的函数，它由相同维数的连续图像产生，3 在矩形（或其他）网络上采样一连续函数，并才采样点上将值量化后的阵列。
+
+Digital image processing 数字图像处理；对图像的数字化处理；由计算机对图片信息进行操作。
+
+Digitization 数字化；将景物图像转化为数字形式的过程。
+
+Edge 边缘；1 在图像中灰度出现突变的区域，2 属于一段弧上的像素集，在其另一边的像素与其有明显的灰度差别。
+
+Edge detection 边缘检测；通过检查邻域，将边缘像素标识出的一种图像分割技术。
+
+Edge enhancement? 边缘增强；通过将边缘两边像素的对比扩大来锐化图像边缘的一种图像处理技术。
+
+Edge image 边缘图像；在边缘图像中每个像素要么标注为边缘，要么为非边缘。
+
+Edge linking 边缘连接；在边缘图像中将边缘像素连成边缘的一种图像处理技术。
+
+Edge operator 边缘算子；将图像中边缘像素标记出来的一种邻域算子。
+
+Edge pixel 边缘像素；处于边缘上的像素。
+
+Enhance? 增强；；增加对比度或主观可视程度。
+
+Exterior pixel 外像素；在二值图像中，处于物体之外的像素（相对于内像素）
+
+False negative 负误识；在两类模式识别中，将属于物体标注为不属于物体的误分类
+
+False positive? 正误识；在两类模式识别中，将不属于物体标注为属于物体的误分类。
+
+Feature? 特征；物体的一种特性，它可以度量。有助于物体的分类。如大小，纹理，形状。
+
+Feature extraction 特征检测；模式识别过程中的一个步骤，在该步骤中计算物体的有关度量。
+
+Feature selection? 特征选择；在模式识别系统开发过程中的一个步骤。旨在研究质量或观测能否用于将物体赋以一定类别。
+
+Feature space 特征空间；参见度量空间
+
+Fourier transform 傅立叶变换；采用复指数作为核函数的一种线性变换。
+
+Geometric correction 几何校正；采用几何变换消除几何畸变的一种图像复原技术。
+
+Gray level 灰度级；1和数字图像的像素相关连的值，它表示由该像素的原始景物点的亮度。2 在某像素位置对图像的局部性质的数字化度量。
+
+Gray scale 灰度；在数字图像中所有可能灰度级的集合
+
+Gray-scale transformation 灰度变换；在点运算中的一种函数，它建立了输入灰度和对应输出灰度的关系
+
+?Hankel transform? Hankel? 变换
+
+?Harmonic signal 谐波信号；有余弦实部和相同频率的正弦虚部组合的复数信号
+
+?Hermite function? Hermite? 函数；具有偶实部和奇虚部的复值函数
+
+?Highpass filtering? 高通滤波；图形增强（通常是卷积）运算，相对于低频部分它对高频部分进行了提升
+
+?Hole 洞；在二值图像中，由物体内点完全包围的连通的背景点
+
+?Image? 图像；对物理景物或其他图像的统一表示称为图像
+
+?Image compression 图像压缩；消除图像冗余或对图像近似的任一种过程，其目的是对图像以更紧凑的形式表示
+
+?Image coding? 图像编码；将图像变换成另一个可恢复的形式（如压缩）
+
+?Image enhancement??? 图像增强；旨在提高图像视觉外观的任一处理
+
+?Image matching? 图像匹配；为决定两副图像相似程度对它们进行量化比较的过程。
+
+?Image-processing operation 图像处理运算；将输入图像变换为输出图像的一系列步骤
+
+?Image reconstruction? 图像重构；从非图像形式构造或恢复图像的过程
+
+?Image registration? 图像配准；通过将景物中的一图幅像与相同景物的另一幅图像进行几何运算，以使其中物体对准的过程
+
+Image restoration 图像复原；通过逆图像退化的过程将图像恢复为原始状态的过程。
+
+?Image segmentation 图像分割；1 在图像中检测并勾画出感兴趣物体的处理，2 将图像分为不相连的区域。通常这些区域对应于物体以及物体所处的背景。
+
+?Interior pixel 内像素；在一幅二值图像中，处于物体内部的像素（相对与边界像素，外像素）
+
+?Interpolation 插值；确定采样点之间采样函数的过程称为插值
+
+?Kernel? 核?
+
+?Line detection 线检测；通过检查邻域将直线像素标识出来的一种图像分割技术
+
+?Line pixel 直线像素；处于一条近似于直线的弧上的像素
+
+?Local operation 局部运算；基于输入像素的一个邻域的像素灰度决定该像素输出灰度的图像处理运算，同邻域运算（对比：点运算）
+
+?Local property 局部特征；在图像中随位置变化的感兴趣的特征（如光学图像的亮度或颜色；非光学图像高度、温度、密度等）
+
+?Lossless image compression 无失真图像压缩；可以允许完全重构原图像的任何图像压缩技术。
+
+?Lossy image compression 有失真图像压缩；由于包含近似，不能精确重构原图像的任何图像压缩技术
+
+?Matched filtering? 匹配滤波；采用匹配波器检测图像中特定物体的存在及其位量
+
+?Measurement space 度量空间；在模式识别中，包含所有可能度量向量的n维向量空间
+
+?Misclassification? 误分类；在模式识别中，将物体误为别类的分类
+
+?Multispectral image? 多光谱图像；同一景物的一组图像，每一个是由电磁谱的不同波段辐射产生的
+
+?Neighborhood? 邻域；在给定像素附近的一像素集合
+
+?Neighoorhood operation 邻域运算；见局部运算
+
+?Noise? 噪音；一幅图像中阻碍感兴趣数据的识别和解释的不相关部分
+
+?Noise reduction 噪音抑制；降低一副图像中噪音的任何处理
+
+?Object 目标，物体；在模式识别中，处于一二值图像中的相连像素的集合，通常对应于该图像所表示景物中的一个物体
+
+?Optical image 光学图像；通过镜头等光学器件将景物中的光投射到一表面上的结果
+
+Pattern? 模式；一个类的成员所表现出的共有的有意义的规则性，可以度量并可用于对感兴趣的物体分类
+
+?Pattern class? 模式类；可赋予一个物体的相互不包容的预先定义的类别集合的任一个类
+
+?Pattern classification?? 模式分类；将物体赋予模式类的过程
+
+?Pattern recognition? 模式识别；自动或半自动地检测、度量、分类图像中的物体
+
+?Pel? 像素；图像元素（picture ; element ）的缩写
+
+?Perimeter? 周长；围绕一物体的边界的周边距离
+
+?Picture element?? 图像元素，像素；数字图像的最小单位，一幅数字图像的基本组成单元
+
+?Pixel 像素；图像元素（picture element ）的缩写
+
+?Point operation?? 点运算；只根据对应像素的输入灰度值决定该像素输出灰度值的图像处理运算（对比：邻域运算）
+
+?Quantitative image analysis 图像定量分析；从一副数字图像中抽取定量数据的过程
+
+?Quantization??? 量化；在每一个像素处，将图像的局部特性赋予一个灰度集合中的元素的过程
+
+?Region?? 区域；一副图像中的相连子集
+
+?Region growing?? 区域增长；通过重复地求具有相似灰度或纹理的相邻子区域的并集形成区域的一种图像分割技术
+
+?Registered 匹准的；1 调准的状态? 2 两幅或多幅图像已几何调准，其中的物体吻合
+
+?Registered image?? 已匹准图像 ；同一景物的两副（或以上）图像已相互调准好位置，从而使其中的物体具有相同的图像位置
+
+?Resolution? 分辨率；1 在光学中指可分辨的点物体之间最小的分离距离，2 在图像处理中，指图像中相邻的点物体能够被分辨出的程度
+
+?Run?? 行程；在图像编码中，具有相同灰度的相连像素序列
+
+?Run length? 行程长度，行程；在行程中像素的个数
+
+?Run length encoding 行程编码；图像行以行程序列表示的图像压缩技术，每一行程以一个给定的行程长度和灰度值定义
+
+?Sampling? 采样；（根据采样网络）将图像分为像素并测量其上局部特性（如亮度、颜色）的过程
+
+?Scene 景物；客观物体的一种特色的布局
+
+?Sharp 清晰；关于图像细节的易分辨性
+
+?Sharpening? 锐化；用以增强图像细节的一种图像处理技术
+
+?Sigmoid function Sigmoid 函数 S函数；形如S的一种函数，是一种灰度变化函数，它也可用于神经元网络中处理单元（PE）中的函数
+
+?Sinusoidal?? 正弦型的；具有正弦函数形状的函数类型
+
+?Smoothing 平滑；降低图像细节幅度的一种图形处理技术，通常用于降噪
+
+?Statistical pattern recognition? 统计模式识别；采用概率和统计的方法将物体赋予模式类的一种模式识别
+
+?Structural pattern recognition? 结构模式识别；为描述和分类物体，将物体表示为基元及其相互关系的一种模式识别方法
+
+?Syntactic pattern recognition? 句法模式识别；采用自然或人工语言模式定义基元及相互关系的一种结构模式识别方法
+
+?System? 系统；任何接收输入，产出输出的东西
+
+?Texture?? 纹理；在图像处理中，表示图像中灰度幅度及其局部变化的空间组织的一种属性
+
+?Thinning?? 细化；将物体削减为（单像素宽度）的细曲线的一种二值图像处理技术
+
+?Threshold? 阈值；用以生产二值图像的一特定灰度
+
+?Thresholding? 二值化；有灰度图产生二值图像的过程，如果输入像素的灰度值大于给定的阈值则输出像素赋为1，否则赋为0
+
+?Transterfunction? 传递函数；在线性移不变系统中，表达每一频率下的正弦型输入信号的幅值比例传递到输出信号上的频率函数
+--------------------- 
+作者：fengye2two 
+来源：CSDN 
+原文：https://blog.csdn.net/fengye2two/article/details/79287008 
+版权声明：本文为博主原创文章，转载请附上博文链接！
