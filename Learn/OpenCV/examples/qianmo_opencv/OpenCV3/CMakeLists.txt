@@ -1,0 +1,37 @@
+
+# chapter 1
+ADD_EXECUTABLE(1_helloOpenCV 01/1_helloOpenCV.cpp)
+SET_TARGET_PROPERTIES(1_helloOpenCV PROPERTIES FOLDER "qm_OpenCV/cv3/01")
+
+ADD_EXECUTABLE(2_ImageErode 01/2_ImageErode.cpp)
+SET_TARGET_PROPERTIES(2_ImageErode PROPERTIES FOLDER "qm_OpenCV/cv3/01")
+
+ADD_EXECUTABLE(3_ImageBlur 01/3_ImageBlur.cpp)
+SET_TARGET_PROPERTIES(3_ImageBlur PROPERTIES FOLDER "qm_OpenCV/cv3/01")
+
+ADD_EXECUTABLE(4_ImageCanny 01/4_ImageCanny.cpp)
+SET_TARGET_PROPERTIES(4_ImageCanny PROPERTIES FOLDER "qm_OpenCV/cv3/01")
+
+ADD_EXECUTABLE(5_LoadVideo 01/5_LoadVideo.cpp)
+SET_TARGET_PROPERTIES(5_LoadVideo PROPERTIES FOLDER "qm_OpenCV/cv3/01")
+
+ADD_EXECUTABLE(6_CameraCapture 01/6_CameraCapture.cpp)
+SET_TARGET_PROPERTIES(6_CameraCapture PROPERTIES FOLDER "qm_OpenCV/cv3/01")
+
+# chapter 2
+ADD_EXECUTABLE(1_CamShiftDemo 02/1_CamShiftDemo.cpp)
+SET_TARGET_PROPERTIES(1_CamShiftDemo PROPERTIES FOLDER "qm_OpenCV/cv3/02")
+
+ADD_EXECUTABLE(2_OpticalFlow 02/2_OpticalFlow.cpp)
+SET_TARGET_PROPERTIES(2_OpticalFlow PROPERTIES FOLDER "qm_OpenCV/cv3/02")
+
+# chapter 3
+ADD_EXECUTABLE(1_WriteImage 03/1_WriteImage.cpp)
+SET_TARGET_PROPERTIES(1_WriteImage PROPERTIES FOLDER "qm_OpenCV/cv3/03")
+
+ADD_EXECUTABLE(2_LoadShowOutputImage 03/2_LoadShowOutputImage.cpp)
+SET_TARGET_PROPERTIES(2_LoadShowOutputImage PROPERTIES FOLDER "qm_OpenCV/cv3/03")
+
+ADD_EXECUTABLE(3_CreateTrackbar 03/3_CreateTrackbar.cpp)
+SET_TARGET_PROPERTIES(3_CreateTrackbar PROPERTIES FOLDER "qm_OpenCV/cv3/03")
+
