@@ -32,6 +32,7 @@ add_executable(testOpenCV tests/testOpenCV.cpp)
 
 #TARGET_LINK_LIBRARIES(testOpenCV  testOpenCV opencv_core320.lib opencv_imgproc320.lib opencv_imgcodecs320.lib opencv_highgui320.lib)
 
+add_subdirectory(tests)
 add_subdirectory(base)
 add_subdirectory(qianmo_opencv)
 
